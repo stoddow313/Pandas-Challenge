@@ -1,5 +1,8 @@
 # Pandas-Challenge
 
+![education](https://github.com/stoddow313/Pandas-Challenge/assets/134353666/c6943eef-e68c-4dac-813e-a13467731971)
+
+
 ## Overview: 
 In this assignment we took a look through Student and School data by combining them into a single dataframe. By doing this we were able to comb through the data easily, while determing key factors for each school, district, and students. Statistics like Average Math Score, School ranking by Spending, etc., were found by utilizing differing functions within pandas. 
 
