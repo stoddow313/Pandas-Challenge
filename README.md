@@ -1,4 +1,4 @@
-# Pandas-Challenge
+# PyCitySchools
 
 ![education](https://github.com/stoddow313/Pandas-Challenge/assets/134353666/c6943eef-e68c-4dac-813e-a13467731971)
 
